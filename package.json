@@ -1,0 +1,24 @@
+{
+  "name": "npm-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rikkbrownstone/npm-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rikkbrownstone/npm-demo/issues"
+  },
+  "homepage": "https://github.com/rikkbrownstone/npm-demo#readme",
+  "dependencies": {
+    "axios": "^0.19.0"
+  }
+}
